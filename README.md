@@ -11,7 +11,7 @@ If these python packages are not present install it using
 2. pip install requests
 
 Usage:
-python .\cowin.py -h
+python .\sendalert.py -h
 (mandatory)-i/--districtid for district id -> Pune district id is 363
 (mandatory)-d/--date for date in dd-mm-yyyy format only
 (optional)-p/--pincode for the comma separated list of pincodes within the district
